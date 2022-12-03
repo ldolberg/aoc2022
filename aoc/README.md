@@ -1,6 +1,6 @@
-# aoc
+# Advent of Code λy.2022
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure implementation of AoC 2022
 
 ## Usage
 
