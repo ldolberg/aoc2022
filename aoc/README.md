@@ -4,7 +4,7 @@ A Clojure implementation of AoC 2022
 
 ## Usage
 
-FIXME
+lein run aoc
 
 ## License
 
